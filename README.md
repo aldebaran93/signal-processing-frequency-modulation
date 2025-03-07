@@ -1,2 +1,2 @@
 # signal-processing-frequency-modulation
-Implement frequency modulation aAlgorithms in MATLAB
+Implement frequency modulation Algorithms in MATLAB
